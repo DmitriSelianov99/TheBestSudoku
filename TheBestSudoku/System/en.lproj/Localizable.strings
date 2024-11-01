@@ -1,0 +1,37 @@
+//MARK: - COMMON
+"yes" = "Yes";
+"no" = "No";
+
+//MARK: - OnBoarding
+"firstOnBoarding" = "Welcome to TheBestSudoku! \n🎉😉";
+"next" = "Next";
+"play" = "Play";
+"hi" = "Hi 👋!";
+"secondOnBoarding1" = "My name is Dmitri.\nThis is my first game published in the AppStore \nThere are";
+"secondOnBoarding2" = " no ads or subscriptions ";
+"secondOnBoarding3" = "here - just enjoy playing Sudoku!";
+
+//MARK: - StartView
+"choose_A_Level" = "CHOOSE A LEVEL";
+"statistics" = "Statistics";
+"continue_game" = "Continue the game";
+
+//MARK: - GameView
+"level" = "Level: %@";
+"save_game" = "Save the game?";
+"alert_title" = "Get out?";
+"message_title" = "The game progress will not be saved";
+
+//MARK: - ErrorsView
+"errors" = "Mistakes: %@/3";
+
+//MARK: - GameWinView
+"congratulations" = "CONGRATULATIONS!";
+"winner" = "You are winner!";
+"complete" = "COMPLETE";
+
+//MARK: - GameLoseView
+"lose" = "You lose!";
+"mistakes" = "You made 3 mistakes!";
+"new_game" = "NEW GAME";
+
